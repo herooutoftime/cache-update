@@ -1,0 +1,13 @@
+Changelog for CacheUpdate
+
+CacheUpdate 1.0.1
+---------------------------------
+* Updated CacheUpdate class
+** Error handling
+** More logging
+* Updated Plugin
+** TVs created to enable specific rerendering
+
+CacheUpdate 1.0.0
+---------------------------------
+Initial Version
